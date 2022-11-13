@@ -101,7 +101,7 @@ ___
 
 - 还有什么？
   - [报告新问题](https://github.com/maotao8/limbo_test/issues/new)
-  - [报告新问题备选入口](https://github.com/maotao8/limbo_test/issues/new)
+  - [报告新问题备选入口](https://gitee.com/m8t/limbo_test/issues/new)
 
 ___
 <br>
