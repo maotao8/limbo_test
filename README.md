@@ -49,7 +49,7 @@ limbo_test作为对limbo模拟器的学习笔记，记录了作者在学习过�
 ### 1.1 下载应用安装包
 下载地址：[https://github.com/limboemu/limbo/releases](https://github.com/limboemu/limbo/releases)
 <br>
-备选下载地址：
+备选下载地址：[https://gitee.com/m8t/limbo/releases](https://gitee.com/m8t/limbo/releases)
 
 ### 1.2 在Android手机上安装并运行
 在你的Android手机安装之前下载的APP安装包并运行
